@@ -41,9 +41,9 @@ Please join the Slack workspace by going to the following link [deeplearningai-n
 This Slack workspace includes all courses of this specialization.
 
 ## Contact Information
-- Twitter: [@IbrahimJelliti](https://twitter.com/IbrahimJelliti)
-- LinkedIn: [@ijelliti](https://www.linkedin.com/in/ijelliti/)
-- the specialization slack channel:  @ibrahim 
+- Twitter: [@AkelaRahi](https://twitter.com/AkelaRahi)
+- LinkedIn: [@Rahi Akela](https://www.linkedin.com/in/rahi-akela-b3796230/)
+- the specialization slack channel:  @rahiakela
 
 <br/>
 
@@ -53,4 +53,4 @@ This Slack workspace includes all courses of this specialization.
 
 <br/>
 
-Ibrahim Jelliti © 2020
+Rahi Akela © 2020
