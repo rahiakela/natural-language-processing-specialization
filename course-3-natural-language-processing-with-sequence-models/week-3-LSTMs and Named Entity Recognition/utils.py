@@ -1,3 +1,4 @@
+
 def get_vocab(vocab_path, tags_path):
     vocab = {}
     with open(vocab_path) as f:
