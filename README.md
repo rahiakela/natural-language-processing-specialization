@@ -32,7 +32,7 @@ Enjoy!
 
 ## Specialization Completion Certificate
 
-![Certificate](https://github.com/rahiakela/natural-language-processing-specialization/nlp-certificate.png)
+![Certificate](https://github.com/rahiakela/natural-language-processing-specialization/raw/master/nlp-certificate.png)
 
 ## Contact Information
 - Twitter: [@AkelaRahi](https://twitter.com/AkelaRahi)
@@ -47,4 +47,4 @@ Enjoy!
 
 <br/>
 
-Rahi Akela © 2021
+Rahi Akela © 2022
